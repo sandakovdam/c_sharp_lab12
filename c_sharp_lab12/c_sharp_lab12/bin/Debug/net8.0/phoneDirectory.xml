@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrganization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Organization>
+    <Name>BSU</Name>
+    <INN>1234567890</INN>
+    <Email>univer@bsu.ru</Email>
+    <ReceptionPhone>8 (3012) 22-77-22</ReceptionPhone>
+    <HRPhone>8 (3012) 29-71-70</HRPhone>
+    <AccountingPhone>21-68-54</AccountingPhone>
+  </Organization>
+  <Organization>
+    <Name>TSU</Name>
+    <INN>0987654321</INN>
+    <Email>pk@mail.tsu.ru</Email>
+    <ReceptionPhone>8 (3822) 529–852</ReceptionPhone>
+    <HRPhone>8 (3822) 785-300</HRPhone>
+    <AccountingPhone>56-44-77</AccountingPhone>
+  </Organization>
+  <Organization>
+    <Name>GTE</Name>
+    <INN>123</INN>
+    <Email>22gte@gmail.ru</Email>
+    <ReceptionPhone>123</ReceptionPhone>
+    <HRPhone>123</HRPhone>
+    <AccountingPhone>132234</AccountingPhone>
+  </Organization>
+  <Organization>
+    <Name>OPPPDD</Name>
+    <INN>123</INN>
+    <Email>123</Email>
+    <ReceptionPhone />
+    <HRPhone />
+    <AccountingPhone />
+  </Organization>
+  <Organization>
+    <Name>RTE</Name>
+    <INN>123</INN>
+    <Email>22</Email>
+    <ReceptionPhone>3</ReceptionPhone>
+    <HRPhone />
+    <AccountingPhone />
+  </Organization>
+  <Organization>
+    <Name>2</Name>
+    <INN>3</INN>
+    <Email />
+    <ReceptionPhone />
+    <HRPhone />
+    <AccountingPhone />
+  </Organization>
+  <Organization>
+    <Name>Привет</Name>
+    <INN>23</INN>
+    <Email />
+    <ReceptionPhone />
+    <HRPhone />
+    <AccountingPhone />
+  </Organization>
+  <Organization>
+    <Name>Проверка</Name>
+    <INN>213</INN>
+    <Email />
+    <ReceptionPhone />
+    <HRPhone />
+    <AccountingPhone />
+  </Organization>
+</ArrayOfOrganization>

@@ -1,0 +1,15 @@
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\c_sharp_lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\c_sharp_lab12.AssemblyInfoInputs.cache
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\c_sharp_lab12.AssemblyInfo.cs
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\c_sharp_lab12.csproj.CoreCompileInputs.cache
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\bin\Debug\net8.0\c_sharp_lab12.exe
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\bin\Debug\net8.0\c_sharp_lab12.deps.json
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\bin\Debug\net8.0\c_sharp_lab12.runtimeconfig.json
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\bin\Debug\net8.0\c_sharp_lab12.dll
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\bin\Debug\net8.0\c_sharp_lab12.pdb
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\c_sharp_lab12.dll
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\refint\c_sharp_lab12.dll
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\c_sharp_lab12.pdb
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\c_sharp_lab12.genruntimeconfig.cache
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\ref\c_sharp_lab12.dll
+D:\bsu\oop\c_sharp_lab12\c_sharp_lab12\obj\Debug\net8.0\c_sharp_lab12.sourcelink.json
